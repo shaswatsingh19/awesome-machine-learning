@@ -3,6 +3,7 @@ The following is a list of free or paid online courses on machine learning, stat
 ## Machine-Learning / Data Mining
 
 * [Artificial Intelligence (Columbia University)](https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x-0) - free
+* [Artificial Intelligence (Columbia University)](https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x-0) - free 
 * [Machine Learning (Columbia University)](https://www.edx.org/course/machine-learning-columbiax-csmm-102x-0) - free
 * [Machine Learning (Stanford University)](https://www.coursera.org/learn/machine-learning) - free
 * [Neural Networks for Machine Learning (University of Toronto)](https://www.coursera.org/learn/neural-networks) - free. Also [available on YouTube](https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLYvFQm7QY5Fy28dST8-qqzJjXr83NKWAr) as a playlist. #This course is no longer available on Coursera.
